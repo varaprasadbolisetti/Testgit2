@@ -1,0 +1,15 @@
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\bin\Debug\net6.0\Assinement3.exe
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\bin\Debug\net6.0\Assinement3.deps.json
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\bin\Debug\net6.0\Assinement3.runtimeconfig.json
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\bin\Debug\net6.0\Assinement3.dll
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\bin\Debug\net6.0\Assinement3.pdb
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\Assinement3.csproj.AssemblyReference.cache
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\Assinement3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\Assinement3.AssemblyInfoInputs.cache
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\Assinement3.AssemblyInfo.cs
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\Assinement3.csproj.CoreCompileInputs.cache
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\Assinement3.dll
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\refint\Assinement3.dll
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\Assinement3.pdb
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\Assinement3.genruntimeconfig.cache
+C:\Users\Varaprasad Bolisetti\source\repos\Assinement3\Assinement3\obj\Debug\net6.0\ref\Assinement3.dll
